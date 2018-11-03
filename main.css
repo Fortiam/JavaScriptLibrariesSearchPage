@@ -2,7 +2,8 @@ html{
     height: 100%;
 }
 body{
-    background: linear-gradient(42deg, rgb(127, 234, 255), rgb(108, 157, 234), rgb(91, 127, 205));
+    /* background: linear-gradient(42deg, rgb(127, 234, 255), rgb(108, 157, 234), rgb(91, 127, 205)); */
+    background: rgb(179, 189, 233);
     color: rgb(16, 32, 27);
     margin: 0;
     box-sizing: border-box;
@@ -28,7 +29,7 @@ h2{
     transition: 1.5s, linear;
 }
 
-h3 {
+h1 {
     text-align: center;
 }
 
